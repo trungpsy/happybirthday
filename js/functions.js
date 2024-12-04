@@ -35,7 +35,7 @@ $(window).resize(function() {
 
 function timeElapse(date){
 
-	const startDate = new Date('2023-11-15T22:45:00');
+	const startDate = new Date('2020-08-15T22:45:00');
 	// Ngày hiện tại
 	const currentDate = new Date();
 	
